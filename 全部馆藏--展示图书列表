@@ -1,1 +1,35 @@
-123
+{
+    "ret": 0,
+    "msg": "",
+    "list": [
+        {
+            "title": "工业人的未来",
+            "author": "彼得.德鲁克",
+            "country": "美国",
+            "catagory": "社会经典学",
+            "createtime": "2014-10-01 12:00:00",
+            "distance": "150"
+        },
+        {
+            "title": "公司概念",
+            "author": "彼得.德鲁克",
+            "country": "美国",
+            "catagory": "社会经典学",
+            "createtime": "2014-09-01 12:00:00",
+            "distance": "160"
+        },
+        {
+            "title": "新经济新规则",
+            "author": "凯文.凯利",
+            "country": "美国",
+            "catagory": "科技人文",
+            "createtime": "2014-08-01 12:00:00",
+            "distance": "100"
+        }
+    ]
+}
+
+ps:
+列表默认按上传时间倒叙排列，越新上传排名越考前
+price单位默认元
+distance单位默认米
